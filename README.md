@@ -30,6 +30,7 @@ As a Quant Analyst, one common challenge is forecasting short-term returns for t
 - `matplotlib`, `seaborn`
 - `scikit-learn`
 - `xgboost`
+- `StandardScaler`
 
 
 
